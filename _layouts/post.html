@@ -11,5 +11,7 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  
+  <div class="tags">This post is tagged: {{ page.tags | array_to_sentence_string }}</div>
 
 </article>
