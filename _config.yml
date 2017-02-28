@@ -11,9 +11,10 @@ email: marcus@wongm.com
 description: > # this means to ignore newlines until "baseurl:"
   Thoughts on technology and software development from Marcus Wong
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://code.wongm.com" # the base hostname & protocol for your site
+url: "https://code.wongm.com" # the base hostname & protocol for your site
 twitter_username: aussiewongm
 github_username:  wongm
+permalink: /:year/:title.html
 
 # Build settings
 markdown: kramdown
