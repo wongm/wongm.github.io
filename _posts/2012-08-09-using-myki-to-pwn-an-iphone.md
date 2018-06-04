@@ -4,6 +4,7 @@ title: Using Myki to pwn an iPhone
 date: 2012-08-09 07:20
 author: wongm
 comments: true
+canonical: https://wongm.com/2012/08/using-myki-to-pwn-an-iphone/
 tags: [hacking, Melbourne, Metro Trains Melbourne, Myki, social engineering, Technology, then and now, transport]
 ---
 Yesterday morning the big Myki news story in the mainstream media was the revelation that Myki ticket machines spit out EFT receipts containing excessive amounts of personal details, even if the user doesn't ask for one, leaving people open to identity fraud if they don't collect their receipt.

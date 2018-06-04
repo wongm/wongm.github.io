@@ -4,6 +4,7 @@ title: "'Altostrat' - Google's fictitious company"
 date: 2015-07-31 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2015/07/altostrat-google-fictitious-company/
 tags: [Google, mystery, Technology]
 ---
 Microsoft is well known for their <a href="https://en.wikipedia.org/wiki/List_of_fictional_Microsoft_companies" target="_blank">long list of fictional companies</a> - the name of which crop up often in the documentation for their software. However they aren't the only company to do so - Google has a fake company of their own - 'Altostrat'.

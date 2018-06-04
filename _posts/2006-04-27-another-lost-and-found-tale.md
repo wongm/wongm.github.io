@@ -4,6 +4,7 @@ title: Another lost and found tale
 date: 2006-04-27 19:09
 author: wongm
 comments: true
+canonical: https://wongm.com/2006/04/another-lost-and-found-tale/
 tags: [lost and found, mystery, Technology, train, V/Line]
 ---
 Here is another lost and found story, abet delayed by a month or two by my laziness.

@@ -4,6 +4,7 @@ title: News Limited and the 'sslcam' redirect
 date: 2014-07-08 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2014/07/news-limited-websites-sslcam-redirect/
 tags: [content delivery networks, interwebs, mystery, newspapers, paywalls, Technology]
 ---
 Recently I was in the middle of researching a blog post, when my internet connection crapped out, leaving me at an odd looking URL. The middle bit of it made sense - www.theaustralian.com.au - but what is up with the sslcam.news.com.au domain name?

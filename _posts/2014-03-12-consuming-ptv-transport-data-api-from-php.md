@@ -4,6 +4,7 @@ title: Testing the PTV transport data API using PHP
 date: 2014-03-12 20:49
 author: wongm
 comments: true
+canonical: https://wongm.com/2014/03/consuming-ptv-transport-data-api-from-php/
 tags: [Melbourne, PHP, programming, Public Transport Victoria, real time train information, Technology, train, trams, transport]
 ---
 Last week on March 7 Public Transport Victoria <a href="http://techgeek.com.au/2014/03/07/public-transport-victoria-finally-releases-timetable-data-public/" target="_blank">finally released</a> something many Melbourne coders and app developers have been waiting for - a public API to query their timetable data.

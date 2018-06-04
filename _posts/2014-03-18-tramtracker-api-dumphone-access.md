@@ -4,6 +4,7 @@ title: Making TramTracker work on 'Dumbphones'
 date: 2014-03-18 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2014/03/tramtracker-api-dumphone-access/
 tags: [Melbourne, programming, real time train information, Technology, trams, TramTracker, transport, Yarra Trams]
 ---
 Over the years I've been using TramTracker on my ancient Nokia mobile phone, until December 2013 when Yarra Trams <a href="https://wongm.com/2013/12/yarra-trams-tramtracker-website-broken/" target="_blank">updated the web version of the service</a>, and rendered it unusable on older devices. 

@@ -4,6 +4,7 @@ title: Comment spammer wanting help fighting comment spam
 date: 2011-02-23 12:00
 author: wongm
 comments: true
+canonical: https://wongm.com/2011/02/comment-spammer-wanting-help-fighting-comment-spamming/
 tags: [advertising, blogging, interwebs, spam, Technology]
 ---
 I found this in my Akismet spam bin the other day.

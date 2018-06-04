@@ -4,6 +4,7 @@ title: Who’s behind WordPress comment spam?
 date: 2011-09-05 16:00
 author: wongm
 comments: true
+canonical: https://wongm.com/2011/09/wordpress-comment-spam-software/
 tags: [advertising, blogging, interwebs, spam, Technology]
 ---
 I've discussed <a href="https://wongm.com/2011/02/comment-spammer-wanting-help-fighting-comment-spamming/" target="_blank">comment spamming previously</a> - automatically generated comments that are posted to blogs in an attempt to game the Google search rankings.

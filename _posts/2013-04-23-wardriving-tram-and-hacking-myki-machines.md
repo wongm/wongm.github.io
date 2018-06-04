@@ -4,6 +4,7 @@ title: The wardriving tram and ‘hacking’ Myki machines
 date: 2013-04-23 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2013/04/wardriving-tram-and-hacking-myki-machines/
 tags: [hacking, Melbourne, Myki, mystery, Technology, transport, wardriving, Yarra Trams]
 ---
 As an eagle-eyed observer of Melbourne's Myki ticketing system, I have <a href="http://railgallery.wongm.com/myki/E114_4892.jpg.html" target="_blank">stumbled</a> <a href="http://railgallery.wongm.com/myki/E115_1419.jpg.html" target="_blank">across</a> <a href="http://railgallery.wongm.com/myki/E114_5901.jpg.html" target="_blank">many</a> <a href="http://railgallery.wongm.com/myki/E116_3767.jpg.html" target="_blank">different</a> <a href="http://railgallery.wongm.com/myki/E113_4749.jpg.html" target="_blank">error</a> <a href="http://railgallery.wongm.com/myki/E114_8800.jpg.html" target="_blank">messages</a> displayed on the Tram Driver Consoles located inside the cab of each of Melbourne's trams. But this message is a new one...

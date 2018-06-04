@@ -4,6 +4,7 @@ title: Fake Facebook screenshots aren't hard at all
 date: 2014-10-07 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2014/10/fake-facebook-screenshots-not-hard-to-make/
 tags: [defamation, Facebook, fraud, Photoshop, politics, slander, Technology]
 ---
 A few weeks ago an <a href="http://www.theage.com.au/victoria/minister-may-refer-fake-offensive-facebook-rants-to-police-20140823-107li1.htm" target="_blank">article about political staffers and faked Facebook posts</a> appeared the <em>The Age</em>.

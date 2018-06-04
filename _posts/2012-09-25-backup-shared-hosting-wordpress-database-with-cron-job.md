@@ -4,6 +4,7 @@ title: Backup your Wordpress database with a cron job
 date: 2012-09-25 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2012/09/backup-shared-hosting-wordpress-database-with-cron-job/
 tags: [backups, blogging, shared hosting, Technology, WordPress]
 ---
 I run this blog with WordPress - today it powers <a href="http://www.forbes.com/sites/jjcolao/2012/09/05/the-internets-mother-tongue/" target="_blank">one of every 6 websites on the Internet</a>. I use a shared hosting account to run the site so I have total control, but it also means I need to make sure everything gets backed up regularly so if my hosting provider derails it, I can quickly get things... <em>back on track</em>.

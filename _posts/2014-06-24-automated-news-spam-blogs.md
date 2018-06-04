@@ -4,6 +4,7 @@ title: East West Link and spam blogs
 date: 2014-06-24 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2014/06/automated-news-spam-blogs/
 tags: [advertising, East West Link, spam, Technology, wasted money]
 ---
 A few weeks ago in my Twitter feed I found somebody taking the piss of an news article, which described the proposed East West Link freeway as "replenish seductiveness".

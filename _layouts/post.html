@@ -12,6 +12,8 @@ layout: default
     {{ content }}
   </div>
   
-  <div class="tags">This post is tagged: {{ page.tags | array_to_sentence_string }}</div>
+  <div class="tags"><p>This post is tagged: {{ page.tags | array_to_sentence_string }}</p></div>
+  
+  {% if page.canonical %}<div class="canonical"><p>This post was originally published at <a href="http://wongm.com">Waking up in Geelong</a> as '<a href="{{ page.canonical }}">{{ page.title }}'</a>.</p></div>  {% endif %}
 
 </article>

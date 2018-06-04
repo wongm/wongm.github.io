@@ -4,6 +4,7 @@ title: PTV website redesign, and a trail of broken links
 date: 2013-04-24 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2013/04/ptv-website-redesign-and-a-trail-of-broken-links/
 tags: [broken URLs, government, interwebs, mystery, Public Transport Victoria, Technology, train, transport, Victoria, wasted money]
 ---
 On 21 April 2013 Public Transport Victoria launched their new public transport information website, <a href="http://ptv.vic.gov.au/news-and-events/news/public-transport-victoria-has-launched-its-new-website/" target="_blank">saying in their press release</a>:

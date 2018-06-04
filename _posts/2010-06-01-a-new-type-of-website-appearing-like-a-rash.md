@@ -4,6 +4,7 @@ title: A new type of website appearing like a rash
 date: 2010-06-01 11:34
 author: wongm
 comments: true
+canonical: https://wongm.com/2010/06/a-new-type-of-website-appearing-like-a-rash/
 tags: [advertising, Facebook, interwebs, spam, Technology, wasted money]
 ---
 Over the past few weeks I have noticed the emergence new entries in my Facebook news feed, consisting of "[Person] likes [inane phrase here]" and a link to websites I had never head of. When I clicked through the link, you end up at a page with just [inane phrase here] on it, a Facebook 'like' button, and advertising (the last bit is a lie - most advertising is turned off in my web browser).

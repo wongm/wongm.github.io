@@ -4,6 +4,7 @@ title: Tracing a performance issue on my web server
 date: 2015-01-06 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2015/01/tracing-performance-issue-apache-mysql-php-web-server/
 tags: [Apache, blogging, interwebs, LAMP, Linux, MySQL, New Relic, PHP, Technology, web hosting]
 ---
 Managing my various web sites <a href="https://wongm.com/2014/07/rebuilding-websites/" target="_blank">can be difficult at times</a>, and my experience the other weekend was no different. My day started normally enough, as I logged onto my <abbr title="virtual private server">VPS</abbr> and installed the latest security patches, then set to work on uploading new photos to my site. It was then I noticed my web site was taking minutes to load pages, not seconds, so I started to dig into the cause.

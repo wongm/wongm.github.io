@@ -4,6 +4,7 @@ title: Fairfax website redesign, and a trail of broken links
 date: 2013-03-06 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2013/03/fairfax-website-redesign-and-a-trail-of-broken-links/
 tags: [broken URLs, Fairfax, interwebs, Moonee Valley Weekly, mystery, newspapers, research, Technology]
 ---
 The other night I was doing some research for an upcoming blog post, and via Google I found some useful newspaper articles published in the '<em>Moonee Valley Weekly</em>':

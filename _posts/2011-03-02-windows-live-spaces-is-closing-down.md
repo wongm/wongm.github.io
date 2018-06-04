@@ -4,6 +4,7 @@ title: Windows Live Spaces is closing down
 date: 2011-03-02 16:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2011/03/windows-live-spaces-is-closing-down/
 tags: [administrivia, blogging, Technology]
 ---
 On March 16, 2011 Windows Live Spaces is closing down. I started blogging there back in May 2005, and with the upcoming deadline I decided I should have a look at what I wrote in my younger days.

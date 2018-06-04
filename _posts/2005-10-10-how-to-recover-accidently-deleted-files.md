@@ -4,6 +4,7 @@ title: How to recover accidently deleted files
 date: 2005-10-10 22:01
 author: wongm
 comments: true
+canonical: https://wongm.com/2005/10/how-to-recover-accidently-deleted-files/
 tags: [digital camera, photography, Technology, undeletion]
 ---
 

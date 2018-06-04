@@ -4,6 +4,7 @@ title: Fixing my blog robot
 date: 2015-05-25 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2015/05/wordpress-scheduled-post-issues/
 tags: [blogging, cron jobs, interwebs, PHP, scheduled posts, Technology, web hosting, WordPress]
 ---
 One thing you might not know about this site is that I don't actually wake up each morning and type up a new blog post - I actually write them ahead of time, and set them up to be published at a future time. Unfortunately this doesn't always work, such as what happened to me a few weeks ago.

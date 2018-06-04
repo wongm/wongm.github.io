@@ -4,6 +4,7 @@ title: Rebuilding all of my websites
 date: 2014-07-10 07:30
 author: wongm
 comments: true
+canonical: https://wongm.com/2015/05/wordpress-scheduled-post-issues/
 tags: [blogging, interwebs, PHP, Technology, web hosting]
 ---
 I've had quite busy recently - on Thursday last week I discovered all of my web sites were offline, which resulted in me moving to a new hosting provider, and rebuilding every bit of content. So how did I do it?

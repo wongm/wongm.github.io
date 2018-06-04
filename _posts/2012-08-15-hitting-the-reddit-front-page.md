@@ -4,6 +4,7 @@ title: Hitting the front page of Reddit
 date: 2012-08-15 20:26
 author: wongm
 comments: true
+canonical: https://wongm.com/2012/08/hitting-the-reddit-front-page/
 tags: [blogging, interwebs, Reddit, story time, Technology, urban exploration]
 ---
 Yesterday I was looking through the statistics for my blog, when I noticed a rather large spike in traffic to my site. So what caused it?

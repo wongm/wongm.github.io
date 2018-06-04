@@ -4,6 +4,7 @@ title: How many Facebook apps do you block?
 date: 2011-07-29 11:00
 author: wongm
 comments: true
+canonical: https://wongm.com/2011/07/how-many-facebook-apps-do-you-block/
 tags: [Facebook, spam, Technology]
 ---
 Today I was reading an article in PC Magazine titled "<a href="http://www.pcmag.com/article2/0,2817,2389102,00.asp" target="_blank">50 Percent Will Abandon Facebook for Google+, Poll Finds</a>" and one quote resonated with me:
