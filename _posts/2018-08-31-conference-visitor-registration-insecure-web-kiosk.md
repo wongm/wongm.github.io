@@ -9,7 +9,7 @@ I recently paid a visit to a trade show where visitor registration was required.
 
 When I started filling in the form, I noticed something concerning - as soon as I started typing in any single form field, it was being prefilled with the personal information of the people who had used the kiosk before me - first name, last name, company name, email addresses and phone numbers.
 
-[Example personal details form]({{ site.url }}/images/upload.wikimedia.org PT015-_Figure_6.5_(3978882756).png)
+<img src="{{ site.url }}/images/upload.wikimedia.org PT015-_Figure_6.5_(3978882756).png" alt="Example personal details form" />
 
 When I got back to work I shared my experiences on Slack, including the fact that our company name was in the list of prefill selections, and our security and compliance officer immediately replied:
 
@@ -36,7 +36,7 @@ And...
 
 But this is often [ignored by browsers like Google Chrome](https://webscripts.softpedia.com/blog/Chrome-34-Seeks-to-Save-All-Your-Passwords-436693.shtml) which also supports 'autofill' between different web sites.
 
-[Screenshot of Google Chrome autofill in use]({{ site.url }}/images/webmasters.googleblog.com Sherlock Screenshot.png).
+<img src="{{ site.url }}/images/webmasters.googleblog.com Sherlock Screenshot.png" alt="Screenshot of Google Chrome autofill in use" />
 
 So you need to also ensure that autofill is disabled in the web browser being used to run the data collection form.
 
@@ -46,7 +46,7 @@ So you need to also ensure that autofill is disabled in the web browser being us
 
 This example is for Google Chrome.
 
-[How to disable Google Chrome autofill]({{ site.url }}/images/wikihow Manage-Passwords-and-Autofill-Settings-on-Google-Chrome-Step-4.jpg)
+<img src="{{ site.url }}/images/wikihow Manage-Passwords-and-Autofill-Settings-on-Google-Chrome-Step-4.jpg" alt="How to disable Google Chrome autofill" />
 
 **Further reading**
 
