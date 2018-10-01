@@ -22,17 +22,17 @@ Sorry, we are mobile only.<br />
 For the best experience, please visit [useless site] on your favourite handset.
 </blockquote>
 
-Inquisitive me wouldn't that for an answer, so I fired up the developer tools in my desktop browser, and lo and behold - the site loaded.
+Inquisitive me wouldn't take that for an answer, so I fired up the developer tools in my desktop browser, and lo and behold - the site loaded.
 
 <img src="/images/mobile-detection---next-minute.jpg" />
 
-I had a look at the source code, and immediately cringed - the entire site was being rendered client side by a Javascript.
+I had a look at the source code, and immediately cringed - the entire site was being rendered client side by Javascript.
 
 <img src="/images/mobile-detection---Sniffing-the-source-code.jpg" />
 
-How were they blocking desktop users - sniffing the user agent, perhaps?
+So how were they blocking desktop users - sniffing the user agent, perhaps?
 
-But luckily I didn't need to dig into the Javascript mess to find the redirect logic - the 'piss off desktop users' page is just an overlay over the top, driven by [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries).
+But luckily I didn't need to dig into the mess of Javascript to find the redirect logic - the 'piss off desktop users' page is just an overlay over the top, driven by [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries).
 
 <img src="/images/mobile-detection---their-error-page-is-responsive.jpg" />
 
@@ -40,7 +40,7 @@ The breakpoint is set at 767 pixels - anything smaller is considered a mobile de
 
 <img src="/images/mobile-detection---largest-screen-you're-allowed-to-have.jpg" />
 
-And anything bigger gets the banhammer.
+And anything bigger gets shown the banhammer splash screen.
 
 **Footnote**
 
