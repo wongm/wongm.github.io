@@ -2,9 +2,10 @@
  * Site header
  */
 .site-header {
+    background-image: url(/images/chips.jpg);
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 200px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -17,10 +18,11 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    font-weight: bolder;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: white;
     }
 }
 
