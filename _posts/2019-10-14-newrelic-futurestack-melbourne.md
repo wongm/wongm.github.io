@@ -8,7 +8,7 @@ tags: [New Relic, websites]
 
 Every year application performance monitoring and analytics company New Relic runs a day called 'FutureStack' where they show off new features  of their product, and New Relic clients show how they've used it to improve the software that they deliver to their users.
 
-I'm an occasional of New Relic at work, so I went along to the 2019 edition in Melbourne for free food and swag, and gained a few interesting insights along the way.
+I'm an occasional of New Relic at work, so I went along to [the 2019 edition in Melbourne](https://newrelic.com/futurestack/melbourne) for free food and swag, and gained a few interesting insights along the way.
 
 ## Speakers ##
 
