@@ -58,7 +58,7 @@ Nope - [loading fine](https://tools.wmflabs.org/magnus-toolserver/commonsapi.php
 
 Maybe the API server is blocking my requests because they consider it abuse? I had a look at how WordPress makes HTTP requests, and ended up in [class-http.php](https://github.com/WordPress/WordPress/blob/master/wp-includes/class-http.php) and the setting of the HTTP user-agent header.
 
-	'user-agent'          => apply_filters( 'http_headers_useragent', 'WordPress/' . get_bloginfo( 'version' ) . '; ' . get_bloginfo( 'url' ), $url ),
+	'user-agent' => apply_filters( 'http_headers_useragent', 'WordPress/' . get_bloginfo( 'version' ) . '; ' . get_bloginfo( 'url' ), $url ),
 
 The header has `WordPress` in there, plus metadata about the blog making the request, so there is enough unique data there to block someone. So what  if I change it to something completely different?
 
