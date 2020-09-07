@@ -29,10 +29,10 @@ To help in this debugging, I copied the HTML troublesome blog post into my local
 
 	Fatal error: Uncaught Exception: Unable to retrieve URL: https://tools.wmflabs.org/magnus-toolserver/commonsapi.php?image=File:19860811a_Mals.jpg&thumbwidth=500 
 	in \htdocs\wordpress\wp-content\plugins\embed-wikimedia\embed-wikimedia.php:187 
-	Stack trace: #0 \htdocs\wordpress\wp-content\plugins\embed-wikimedia\embed-wikimedia.php(89): 
-	embed_wikimedia_get_data('https://tools.w...', 'xml') 
-	#1 \htdocs\wordpress\wp-includes\class-wp-embed.php(172): 	embed_wikimedia_commons(Array, Array, 'https://commons...', Array) 
-	#2 \htdocs\wordpress\wp-includes\class-wp-embed.php(411): 	WP_Embed->shortcode(Array, 'https://commons...') 
+	Stack trace: 
+	#0 \htdocs\wordpress\wp-content\plugins\embed-wikimedia\embed-wikimedia.php(89): embed_wikimedia_get_data('https://tools.w...', 'xml') 
+	#1 \htdocs\wordpress\wp-includes\class-wp-embed.php(172): embed_wikimedia_commons(Array, Array, 'https://commons...', Array) 
+	#2 \htdocs\wordpress\wp-includes\class-wp-embed.php(411): WP_Embed->shortcode(Array, 'https://commons...') 
 	#3 [internal function]: WP_Embed->autoembed_callback(Array) 
 	#4 \htdocs\wordpress\wp-includes\class-wp-embed.php(393): preg_replace_callback('|^(\\s*)(https?:...', Array, 'Start content.\r...') 
 	#5 \htdocs\wordpress\wp-includes\class-wp-hook.php(286): WP_Embed->autoembed('Start content.\r...') 
