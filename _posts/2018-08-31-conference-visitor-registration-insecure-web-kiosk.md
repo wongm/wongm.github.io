@@ -18,7 +18,7 @@ When I got back to work I shared my experiences on Slack, including the fact tha
 So how do you screw up something so simple?
 
 **So who's fault is it?**
-Turns out trade shows doesn't run their own registration process - they outsource it to a specialist convention registration manager, who then use either their own bespoke software to colelct data, or licences a 3rd party product to do the job.
+Turns out trade shows doesn't run their own registration process - they outsource it to a specialist convention registration manager, who then use either their own bespoke software to collect data, or licences a 3rd party product to do the job.
 
 **How to fix it**
 
