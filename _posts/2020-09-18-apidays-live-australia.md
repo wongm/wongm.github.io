@@ -4,6 +4,7 @@ title: Apidays Live Australia 2020
 author: wongm
 comments: true
 tags: [conferences, Apidays]
+excerpt_separator: <!--end_excerpt-->
 ---
 
 On September 15 and 16, 2020 I attended '[Apidays Live Australia](https://www.apidays.co/australia/)' - a conference about APIs. They describe it as.
@@ -11,6 +12,8 @@ On September 15 and 16, 2020 I attended '[Apidays Live Australia](https://www.ap
 > Apidays is about the opportunities and technologies enabled by the programmable economy. As APIs become mainstream, our world becomes more connected, more automated and more intelligent. APIs are the gateway to data, services, devices and emerging technologies. APIs put power into the hands of developers, citizens and consumers.
 
 Due to the COVID-19 situation this  one was held online using the [Hopin](https://news.crunchbase.com/news/meet-hopin-the-platform-for-virtual-conferences/) platform. for a two day conference with three parallel virtual 'stages' there were a massive amount of speakers  - here what I took away from the talks I attended.  
+
+<!--end_excerpt-->
 
 ## Speakers ##
 
