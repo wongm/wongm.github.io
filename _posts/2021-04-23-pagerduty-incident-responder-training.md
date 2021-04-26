@@ -63,15 +63,18 @@ Major incidents are:
 When responding to an incident, initial resources is just a 'responder'. The incident response can then bring in other roles as severity increases. Roles include:
 
 Command level: 
+
 - commander
 - deputy commander
 - scribe 
 
 Liaison level:
+
 - internal liaison
 - customer liaison
 
 Operations level:
+
 - Subject matter experts
 
 Anyone can trigger incident response process - don't need to wait for the specified metrics to occur, because people are smart enough to foresee if the issue will get worse.
