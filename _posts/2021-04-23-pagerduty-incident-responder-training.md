@@ -46,7 +46,11 @@ And it covered:
 
 ## My takeways ##
 
-The term "incident response" is something used by PagerDuty, but other companies might call it something else. The are a response to unplanned disruption that affects users. Aim is to handle the issue, not necessarily solving them. A structured process will help to replace replace chaos with calm. The Incident Command System (ICS) is a standardized hierarchical structure used in many fields, not just IT.
+The term "incident response" is something used by PagerDuty, but other companies might call it something else. 
+
+It is a response to unplanned disruption that affects users. Aim is to handle the issue, not necessarily solving them. 
+
+The Incident Command System (ICS) is a standardized hierarchical structure used in many fields, not just IT. A structured process will help to replace replace chaos with calm. 
 
 Minor incidents include:
 
@@ -87,20 +91,35 @@ Deputy commander is not just following along, but takes on extra tasks for the c
 
 Scribe capture information for follow-up or post mortem. However they are not just a stenographer - they are allowed to add extra details as needed, logging as it is happening to somewhere, Slack is common example.
 
-Liason role typically supports team members, and notifying customers in appropriate language. Be careful - are updates too frequent that you spend more time writing them than creating them.
+Liaison role typically supports team members, and notifying customers in appropriate language. Be careful - are updates too frequent that you spend more time writing them than creating them.
 
 When in a major incident, standard rules might be loosened, for example deploying of code without automated tests. Need to define roles, and create runbooks ready for when an incident occurs.
 
 Postmortems are not a punishment, but for learning from the incident. They are blameless, should be asking 'what' and 'how' instead of 'who' and 'why' questions. Anyone can facilitate one. Physiological safety helps to bring down barriers.
 
+## A comparison to what I already do ##
+
+The process shared by PagerDuty has a lot in common with what we already do at my workplace.
+
+We have four levels of incidents:
+
+- P1: total system outage
+- P2: major outage that disrupts a piece of key functionality 
+- P3: system disruption but a workaround exists
+- P4: styling and visual issues
+
+We don't have a formalised chain of responders with a commander, scribe, liaisons, and SMEs, but their responsibilities are met in an informal way when an incident does occur. 
+
+We use Slack to track progress resolving an incident, with customer facing support team handles communications with clients, alongside SMEs from the product development team. 
+
+We also already have in place a Post Incident Review (PIR) process to follow after a P1 outage, so that we can improve our system over time.
+
 ## My thoughts overall ##
+
+The session was quite useful - the process wasn't coupled to the services that PagerDuty sells, and it was nice to see what the incident resolution process I already follow is one other companies use. It also provided some useful points for us to improve our process further.
 
 ## Further reading ##
 
-- https://meet.pagerduty.com/certification?mkt_tok=MDkzLVZQSi04MDcAAAF8TaVE2BupVDP8Tte7GmmLRYrY3sVLfomrKwdD5OC_NfJFNEVEJIq-oMIz1yKf5_z4LWWbID6Pabud7KmR4C51q44BpB3cgUsP20BCpewCA-M1A7U
+- [PagerDuty Incident Response process](https://response.pagerduty.com)
+- [PagerDuty postmortems process](https://postmortems.pagerduty.com/)
 
-https://response.pagerduty.com
-https://postmortems.pagerduty.com/
-
-
-SNIP
